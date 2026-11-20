@@ -1,1 +1,1 @@
-print("infosys is located in banglore")
+print("infosys is located in banglore,mysore")
